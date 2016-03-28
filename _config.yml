@@ -1,0 +1,28 @@
+name: LONDON-CRAWL
+favicon: null
+layout_spectrum: 0.6292685302905738
+typography_spectrum: 0.5553565453737974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.018734853016212583
+  lightness: 0.7200860504526645
+  saturation: 0.0027314021717756987
+  rhythmicContrast: 0.44387124944478273
+purpose: []
